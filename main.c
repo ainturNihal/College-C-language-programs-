@@ -1,4 +1,4 @@
-
+## a c programto find the area and perimeter of a triangle user will enter 3 side values
 #include<stdio.h>
 #include<math.h>
 int main ()
